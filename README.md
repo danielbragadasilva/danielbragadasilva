@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Daniel Braga Da Silva
 
-### 💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Tecnologia
+### 💻 Desenvolvedor Frontend | 🚀 Apaixonado por Tecnologia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+TypeScript;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Especialista+em+TypeScript;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danielbragadasilva&style=for-the-badge&color=00d9ff)
 [![GitHub followers](https://img.shields.io/github/followers/danielbragadasilva?style=for-the-badge&logo=github&logoColor=white&color=00d9ff)](https://github.com/danielbragadasilva)
@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **desenvolvedor full stack** apaixonado por criar soluções digitais que fazem a diferença. Com experiência sólida em tecnologias modernas, transformo ideias em código limpo e eficiente.
+Sou um **desenvolvedor Frontend** apaixonado por criar soluções digitais que fazem a diferença. Com experiência sólida em tecnologias modernas, transformo ideias em código limpo e eficiente.
 
 ```typescript
 const daniel = {
